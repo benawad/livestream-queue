@@ -31,6 +31,8 @@ pick a technology I know
 
 frameworks that start with the letter A are banned
 
+make sure you have your dev environment setup and have a specific thing you want to discuss/debug
+
 PS: I don't know Vue
 
 no resumes (I suck at evaluated them)`}
